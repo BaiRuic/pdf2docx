@@ -7,7 +7,7 @@ Python3.x环境，需要的第三方包：pdf2image, docx, python-docx, tqdm。�
 
 ### 使用方法：
 1. 下载该脚本至待转换pdf的文件路径下
-    + 例如可通过wget下载该脚本
+    + 例如可通过wget下载该脚本 `wget https://github.com/BaiRuic/pdf2docx/blob/master/pdf2docx.py -O pdf2docx.py`
     + 或者直接下载该仓库，然后手动将.py文件移动至指定路径。
 2. 打开命令行，执行 `python pdf2docx.py <pdf file name>`即可。
     
